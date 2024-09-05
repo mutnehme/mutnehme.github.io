@@ -1,0 +1,9 @@
+body {
+    background-color:rgba(250, 230, 199, 0.981);
+    font-family: "Times New Roman", serif;
+    color:rgb(0, 0, 0);
+}
+
+h1, h2 {
+    background-color: rgb(128, 128, 128);
+}
